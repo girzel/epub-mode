@@ -1,0 +1,4 @@
+*.elc
+epub-mode-pkg.el
+epub-mode-autoloads.el
+notes.org
